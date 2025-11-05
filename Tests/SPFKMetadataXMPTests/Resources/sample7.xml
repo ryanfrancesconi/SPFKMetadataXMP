@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:about="">
+            <xmp:CreateDate>2021-12-07T01:26:01Z</xmp:CreateDate>
+            <xmp:ModifyDate>2021-12-07T01:26:03Z</xmp:ModifyDate>
+            <xmp:MetadataDate>2021-12-06T17:26:03-08:00</xmp:MetadataDate>
+            <xmp:CreatorTool>Adobe Premiere Pro 2022.0 (Macintosh)</xmp:CreatorTool>
+            <xmpDM:videoFrameRate>23.976024</xmpDM:videoFrameRate>
+            <xmpDM:videoFieldOrder>Progressive</xmpDM:videoFieldOrder>
+            <xmpDM:videoPixelAspectRatio>1/1</xmpDM:videoPixelAspectRatio>
+            <xmpDM:audioSampleRate>48000</xmpDM:audioSampleRate>
+            <xmpDM:audioSampleType>16Int</xmpDM:audioSampleType>
+            <xmpDM:audioChannelType>Stereo</xmpDM:audioChannelType>
+            <xmpDM:startTimeScale>24000</xmpDM:startTimeScale>
+            <xmpDM:startTimeSampleSize>1001</xmpDM:startTimeSampleSize>
+            <xmpDM:projectRef rdf:parseType="Resource">
+                <xmpDM:type>movie</xmpDM:type>
+            </xmpDM:projectRef>
+            <xmpDM:Tracks>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmpDM:trackName>Markers</xmpDM:trackName>
+                        <xmpDM:frameRate>f24000s1001</xmpDM:frameRate>
+                        <xmpDM:markers>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>9</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>211249de-e035-42ce-9537-d644a7a44cdb</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>211249de-e035-42ce-9537-d644a7a44cdb</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>23</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>e4e3ae80-adad-4134-9309-7bfe35cbe0ff</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>e4e3ae80-adad-4134-9309-7bfe35cbe0ff</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>39</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>59856d01-006a-49f5-90b5-371f92d5f7fe</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>59856d01-006a-49f5-90b5-371f92d5f7fe</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>53</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>ffd423d2-9217-4636-aea9-e9361c203ea2</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>ffd423d2-9217-4636-aea9-e9361c203ea2</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>65</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>9dcee2c4-e24e-4f0e-8a76-50a487ccd1ab</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>9dcee2c4-e24e-4f0e-8a76-50a487ccd1ab</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>79</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>2bcfabdf-cd24-4306-a064-050597cefd0f</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>2bcfabdf-cd24-4306-a064-050597cefd0f</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>91</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>131ebb2e-8682-4d2e-a746-45d6f5c361b4</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>131ebb2e-8682-4d2e-a746-45d6f5c361b4</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>105</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>d839ce8f-c355-4869-bb6f-9189e5e5ac40</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>d839ce8f-c355-4869-bb6f-9189e5e5ac40</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>120</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>2ed71150-24ea-4b81-a2e6-b0b2cd41063a</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>2ed71150-24ea-4b81-a2e6-b0b2cd41063a</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>132</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>a47be451-9f1f-4407-b979-579e9b6d352f</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>a47be451-9f1f-4407-b979-579e9b6d352f</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>145</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>1330f0a3-46b7-4324-8228-4d71d1e2d227</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>1330f0a3-46b7-4324-8228-4d71d1e2d227</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>158</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>bdcdffc1-c0a8-444e-a36f-8c62a62eb5e1</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>bdcdffc1-c0a8-444e-a36f-8c62a62eb5e1</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>168</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>5cb9b271-947f-432d-87c6-c4166993acfe</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>5cb9b271-947f-432d-87c6-c4166993acfe</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>180</xmpDM:startTime>
+                                    <xmpDM:comment>footstep, grass</xmpDM:comment>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>5aa4bf9a-b0db-4ab3-bf4c-cd61eccd04be</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>5aa4bf9a-b0db-4ab3-bf4c-cd61eccd04be</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpDM:markers>
+                    </rdf:li>
+                </rdf:Bag>
+            </xmpDM:Tracks>
+            <xmpDM:videoFrameSize rdf:parseType="Resource">
+                <stDim:w>1920</stDim:w>
+                <stDim:h>1080</stDim:h>
+                <stDim:unit>pixel</stDim:unit>
+            </xmpDM:videoFrameSize>
+            <xmpDM:startTimecode rdf:parseType="Resource">
+                <xmpDM:timeFormat>23976Timecode</xmpDM:timeFormat>
+                <xmpDM:timeValue>00:00:10:01</xmpDM:timeValue>
+            </xmpDM:startTimecode>
+            <xmpDM:altTimecode rdf:parseType="Resource">
+                <xmpDM:timeValue>00:00:10:01</xmpDM:timeValue>
+                <xmpDM:timeFormat>23976Timecode</xmpDM:timeFormat>
+            </xmpDM:altTimecode>
+            <xmpDM:duration rdf:parseType="Resource">
+                <xmpDM:value>681600</xmpDM:value>
+                <xmpDM:scale>1/90000</xmpDM:scale>
+            </xmpDM:duration>
+            <tiff:Orientation>1</tiff:Orientation>
+            <xmpMM:InstanceID>xmp.iid:5770c376-9379-4c48-bbbe-050a9f900ada</xmpMM:InstanceID>
+            <xmpMM:DocumentID>de8c1209-66ec-669a-dea1-e4dc00000091</xmpMM:DocumentID>
+            <xmpMM:OriginalDocumentID>xmp.did:864231b7-eba4-4d92-9f32-24e9312f7eb0</xmpMM:OriginalDocumentID>
+            <xmpMM:History>
+                <rdf:Seq>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>28cb4ded-af29-b331-e718-fc62000000be</stEvt:instanceID>
+                        <stEvt:when>2021-12-06T17:26:03-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>created</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:6283b78b-5440-4edc-b249-6046fd515bc3</stEvt:instanceID>
+                        <stEvt:when>2021-12-06T17:26-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:e19a6c13-f824-4ff3-a036-dd35e1062061</stEvt:instanceID>
+                        <stEvt:when>2021-12-06T17:26:03-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:f65412e5-e8ef-44fb-953a-5dda71e74ee7</stEvt:instanceID>
+                        <stEvt:when>2021-12-06T17:26:03-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/metadata</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:5770c376-9379-4c48-bbbe-050a9f900ada</stEvt:instanceID>
+                        <stEvt:when>2021-12-06T17:26:03-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/metadata</stEvt:changed>
+                    </rdf:li>
+                </rdf:Seq>
+            </xmpMM:History>
+            <xmpMM:Ingredients>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>5407b967-f237-0f30-7bd7-5eb40000010a</stRef:instanceID>
+                        <stRef:documentID>4f28db4e-6f0e-9d36-8c3c-e83d000000dd</stRef:documentID>
+                        <stRef:fromPart>time:13294995137424000f254016000000d1907025120000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:2553294744000f254016000000d1907025120000f254016000000</stRef:toPart>
+                        <stRef:filePath>75826_people_running_in_tall_grass_on_cliff_by_ocean_by_Brandon_Li_Artgrid-HD_H264-HD.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                </rdf:Bag>
+            </xmpMM:Ingredients>
+            <xmpMM:Pantry>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmp:CreateDate>1904-01-01T00:00Z</xmp:CreateDate>
+                        <xmp:ModifyDate>2021-12-06T17:16:44-08:00</xmp:ModifyDate>
+                        <xmp:MetadataDate>2021-12-06T17:16:44-08:00</xmp:MetadataDate>
+                        <xmpDM:startTimeScale>24000</xmpDM:startTimeScale>
+                        <xmpDM:startTimeSampleSize>1001</xmpDM:startTimeSampleSize>
+                        <tiff:Orientation>1</tiff:Orientation>
+                        <xmpMM:InstanceID>5407b967-f237-0f30-7bd7-5eb40000010a</xmpMM:InstanceID>
+                        <xmpMM:DocumentID>4f28db4e-6f0e-9d36-8c3c-e83d000000dd</xmpMM:DocumentID>
+                        <xmpMM:OriginalDocumentID>xmp.did:a4baa34d-9b6c-4598-b898-37add073fd3a</xmpMM:OriginalDocumentID>
+                        <xmpDM:duration rdf:parseType="Resource">
+                            <xmpDM:value>7550</xmpDM:value>
+                            <xmpDM:scale>1/1000</xmpDM:scale>
+                        </xmpDM:duration>
+                        <xmpDM:altTimecode rdf:parseType="Resource">
+                            <xmpDM:timeValue>14:31:26:22</xmpDM:timeValue>
+                            <xmpDM:timeFormat>23976Timecode</xmpDM:timeFormat>
+                        </xmpDM:altTimecode>
+                        <xmpMM:History>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>5407b967-f237-0f30-7bd7-5eb40000010a</stEvt:instanceID>
+                                    <stEvt:when>2021-12-06T17:16:44-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpMM:History>
+                    </rdf:li>
+                </rdf:Bag>
+            </xmpMM:Pantry>
+            <xmpMM:DerivedFrom rdf:parseType="Resource">
+                <stRef:instanceID>xmp.iid:6283b78b-5440-4edc-b249-6046fd515bc3</stRef:instanceID>
+                <stRef:documentID>xmp.did:6283b78b-5440-4edc-b249-6046fd515bc3</stRef:documentID>
+                <stRef:originalDocumentID>xmp.did:6283b78b-5440-4edc-b249-6046fd515bc3</stRef:originalDocumentID>
+            </xmpMM:DerivedFrom>
+            <dc:format>H.264</dc:format>
+            <creatorAtom:windowsAtom rdf:parseType="Resource">
+                <creatorAtom:extension>.prproj</creatorAtom:extension>
+                <creatorAtom:invocationFlags>/L</creatorAtom:invocationFlags>
+            </creatorAtom:windowsAtom>
+            <creatorAtom:macAtom rdf:parseType="Resource">
+                <creatorAtom:applicationCode>1347449455</creatorAtom:applicationCode>
+                <creatorAtom:invocationAppleEvent>1129468018</creatorAtom:invocationAppleEvent>
+                <creatorAtom:posixProjectPath>/Users/avabice/Desktop/Test Markers.prproj</creatorAtom:posixProjectPath>
+            </creatorAtom:macAtom>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>

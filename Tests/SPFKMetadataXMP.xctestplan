@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "EDE8D57D-4305-4CC7-89EA-E9C2F81BF15D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "performanceAntipatternCheckerEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "SPFKMetadataXMPTests",
+        "name" : "SPFKMetadataXMPTests"
+      }
+    }
+  ],
+  "version" : 1
+}

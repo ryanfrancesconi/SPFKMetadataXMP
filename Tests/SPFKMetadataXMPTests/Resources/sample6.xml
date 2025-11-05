@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" rdf:about="">
+            <xmp:CreateDate>2021-12-06T23:21:17Z</xmp:CreateDate>
+            <xmp:ModifyDate>2021-12-06T23:21:17Z</xmp:ModifyDate>
+            <xmpDM:duration rdf:parseType="Resource">
+                <xmpDM:value>77077</xmpDM:value>
+                <xmpDM:scale>1/24000</xmpDM:scale>
+            </xmpDM:duration>
+            <xmpDM:startTimeScale>24000</xmpDM:startTimeScale>
+            <xmpDM:startTimeSampleSize>1001</xmpDM:startTimeSampleSize>
+            <xmpDM:altTimecode rdf:parseType="Resource">
+                <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+                <xmpDM:timeFormat>23976Timecode</xmpDM:timeFormat>
+            </xmpDM:altTimecode>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>

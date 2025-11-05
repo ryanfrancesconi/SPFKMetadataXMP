@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:about="">
+            <xmp:ModifyDate>2021-07-29T20:44:28Z</xmp:ModifyDate>
+            <xmp:MetadataDate>2021-07-29T14:02:44-07:00</xmp:MetadataDate>
+            <xmp:CreateDate>2020-10-28T00:12:28Z</xmp:CreateDate>
+            <xmpDM:startTimeScale>60000</xmpDM:startTimeScale>
+            <xmpDM:startTimeSampleSize>1001</xmpDM:startTimeSampleSize>
+            <xmpDM:altTimecode rdf:parseType="Resource">
+                <xmpDM:timeValue>01;00;00;01</xmpDM:timeValue>
+                <xmpDM:timeFormat>5994DropTimecode</xmpDM:timeFormat>
+            </xmpDM:altTimecode>
+            <xmpDM:startTimecode rdf:parseType="Resource">
+                <xmpDM:timeValue>00;00;00;00</xmpDM:timeValue>
+                <xmpDM:timeFormat>5994DropTimecode</xmpDM:timeFormat>
+            </xmpDM:startTimecode>
+            <xmpDM:duration rdf:parseType="Resource">
+                <xmpDM:value>1799798</xmpDM:value>
+                <xmpDM:scale>1/60000</xmpDM:scale>
+            </xmpDM:duration>
+            <xmpMM:InstanceID>xmp.iid:c74f1ed7-7900-4a34-9586-c5f82754b692</xmpMM:InstanceID>
+            <xmpMM:DocumentID>72232d0c-3dcb-7fae-e666-2f7300000077</xmpMM:DocumentID>
+            <xmpMM:OriginalDocumentID>xmp.did:c316e6ad-4eb6-47dd-bebd-95b461b026cc</xmpMM:OriginalDocumentID>
+            <xmpMM:History>
+                <rdf:Seq>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>c36e84b3-3e3c-08df-81de-f22b000000a4</stEvt:instanceID>
+                        <stEvt:when>2021-07-29T13:44:28-07:00</stEvt:when>
+                        <stEvt:changed>/</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:c74f1ed7-7900-4a34-9586-c5f82754b692</stEvt:instanceID>
+                        <stEvt:when>2021-07-29T14:02:44-07:00</stEvt:when>
+                        <stEvt:changed>/metadata</stEvt:changed>
+                    </rdf:li>
+                </rdf:Seq>
+            </xmpMM:History>
+            <dc:title>
+                <rdf:Alt>
+                    <rdf:li xml:lang="x-default">Timecode Offset Test 59.94 Drop, 1 hour 1 minute</rdf:li>
+                </rdf:Alt>
+            </dc:title>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:about="">
+            <xmp:CreateDate>2022-01-20T23:42:45Z</xmp:CreateDate>
+            <xmp:ModifyDate>2022-01-20T23:42:46Z</xmp:ModifyDate>
+            <xmp:MetadataDate>2022-01-20T15:42:46-08:00</xmp:MetadataDate>
+            <xmp:CreatorTool>Adobe Premiere Pro 2022.0 (Macintosh)</xmp:CreatorTool>
+            <xmpDM:videoFrameRate>24.000000</xmpDM:videoFrameRate>
+            <xmpDM:videoFieldOrder>Progressive</xmpDM:videoFieldOrder>
+            <xmpDM:videoPixelAspectRatio>1/1</xmpDM:videoPixelAspectRatio>
+            <xmpDM:audioSampleRate>48000</xmpDM:audioSampleRate>
+            <xmpDM:audioSampleType>16Int</xmpDM:audioSampleType>
+            <xmpDM:audioChannelType>Stereo</xmpDM:audioChannelType>
+            <xmpDM:startTimeScale>24</xmpDM:startTimeScale>
+            <xmpDM:startTimeSampleSize>1</xmpDM:startTimeSampleSize>
+            <xmpDM:videoFrameSize rdf:parseType="Resource">
+                <stDim:w>1920</stDim:w>
+                <stDim:h>1080</stDim:h>
+                <stDim:unit>pixel</stDim:unit>
+            </xmpDM:videoFrameSize>
+            <xmpDM:startTimecode rdf:parseType="Resource">
+                <xmpDM:timeFormat>24Timecode</xmpDM:timeFormat>
+                <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+            </xmpDM:startTimecode>
+            <xmpDM:projectRef rdf:parseType="Resource">
+                <xmpDM:type>movie</xmpDM:type>
+            </xmpDM:projectRef>
+            <xmpDM:Tracks>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmpDM:trackName>Markers</xmpDM:trackName>
+                        <xmpDM:frameRate>f24</xmpDM:frameRate>
+                        <xmpDM:markers>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>3</xmpDM:startTime>
+                                    <xmpDM:comment>ambiance, nighttime
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#70c166b9-969e-4110-a6cb-b8cceaf74a82]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>ff250f4c-5487-4a9d-b5c5-9f8f7d77ca9e</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>ff250f4c-5487-4a9d-b5c5-9f8f7d77ca9e</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>9</xmpDM:startTime>
+                                    <xmpDM:comment>h
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#bfb0bfb9-a962-46da-82f4-dc7a87e0179d]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>8bdaaa15-e608-43b8-a977-239ed4ded47a</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>8bdaaa15-e608-43b8-a977-239ed4ded47a</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>53</xmpDM:startTime>
+                                    <xmpDM:comment>t
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#6229e84e-7207-4f3c-9ec0-56b95b75d73e]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>761b1ef8-0981-4571-80e5-def3fcac792b</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>761b1ef8-0981-4571-80e5-def3fcac792b</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>136</xmpDM:startTime>
+                                    <xmpDM:comment>t
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#256eabb2-bc3a-4f2c-bb9e-3e8b7856a851]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>912d5bca-a8cf-46c9-8efa-185a24b85ae1</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>912d5bca-a8cf-46c9-8efa-185a24b85ae1</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>176</xmpDM:startTime>
+                                    <xmpDM:comment>t
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#f861eee4-a21b-494c-a8b8-d43d7faa4605]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>162d7b21-0b69-406f-a220-95e1d5519da5</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>162d7b21-0b69-406f-a220-95e1d5519da5</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>327</xmpDM:startTime>
+                                    <xmpDM:comment>rise, long
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#e25bfa79-3f16-4c21-8f95-df078ac66336]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>27b0cfa5-b7de-4879-bd70-638666f3c6c9</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>27b0cfa5-b7de-4879-bd70-638666f3c6c9</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:startTime>336</xmpDM:startTime>
+                                    <xmpDM:comment>organic, hit
+        [3:07PM January 20th, 2022]
+        [3:38PM January 20th, 2022]</xmpDM:comment>
+                                    <xmpDM:name>Gabe [#6385e302-6c38-406e-b843-fce520c771c5]</xmpDM:name>
+                                    <xmpDM:type>Comment</xmpDM:type>
+                                    <xmpDM:guid>cd5ac29e-f553-434c-886f-c990be715c46</xmpDM:guid>
+                                    <xmpDM:cuePointParams>
+                                        <rdf:Seq>
+                                            <rdf:li rdf:parseType="Resource">
+                                                <xmpDM:key>marker_guid</xmpDM:key>
+                                                <xmpDM:value>cd5ac29e-f553-434c-886f-c990be715c46</xmpDM:value>
+                                            </rdf:li>
+                                        </rdf:Seq>
+                                    </xmpDM:cuePointParams>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpDM:markers>
+                    </rdf:li>
+                </rdf:Bag>
+            </xmpDM:Tracks>
+            <xmpDM:altTimecode rdf:parseType="Resource">
+                <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+                <xmpDM:timeFormat>24Timecode</xmpDM:timeFormat>
+            </xmpDM:altTimecode>
+            <xmpDM:duration rdf:parseType="Resource">
+                <xmpDM:value>1405440</xmpDM:value>
+                <xmpDM:scale>1/90000</xmpDM:scale>
+            </xmpDM:duration>
+            <tiff:Orientation>1</tiff:Orientation>
+            <xmpMM:InstanceID>xmp.iid:2d6238fd-752d-48dd-a0b5-69a3ef8b68cf</xmpMM:InstanceID>
+            <xmpMM:DocumentID>728f2964-6df9-c2bf-83a1-ad510000004d</xmpMM:DocumentID>
+            <xmpMM:OriginalDocumentID>xmp.did:f3f7fe17-2c41-456f-b7a7-1a0ea1acb404</xmpMM:OriginalDocumentID>
+            <xmpMM:History>
+                <rdf:Seq>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>d400d976-44a2-bdd8-b575-bc160000007a</stEvt:instanceID>
+                        <stEvt:when>2022-01-20T15:42:46-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:fe888ee6-6237-4109-ad8e-dd1f52d1df4a</stEvt:instanceID>
+                        <stEvt:when>2022-01-20T15:41:02-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/metadata/xmpDM/Tracks</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>created</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:10f1788d-800d-4f17-af2e-4886df66f9cc</stEvt:instanceID>
+                        <stEvt:when>2022-01-20T15:42:44-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:b7995ff2-5d77-4f41-86d5-fa019345102a</stEvt:instanceID>
+                        <stEvt:when>2022-01-20T15:42:46-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:fb48361f-919a-4ac9-a614-8c77c62eeb98</stEvt:instanceID>
+                        <stEvt:when>2022-01-20T15:42:46-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/metadata</stEvt:changed>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stEvt:action>saved</stEvt:action>
+                        <stEvt:instanceID>xmp.iid:2d6238fd-752d-48dd-a0b5-69a3ef8b68cf</stEvt:instanceID>
+                        <stEvt:when>2022-01-20T15:42:46-08:00</stEvt:when>
+                        <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                        <stEvt:changed>/metadata</stEvt:changed>
+                    </rdf:li>
+                </rdf:Seq>
+            </xmpMM:History>
+            <xmpMM:Ingredients>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>8e269212-6dc0-a9d8-afcd-fd1900000080</stRef:instanceID>
+                        <stRef:documentID>74e5b2ff-89d8-5fde-e0b7-57b900000053</stRef:documentID>
+                        <stRef:fromPart>time:0d3662064000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:0d3662064000000f254016000000</stRef:toPart>
+                        <stRef:filePath>Deep Black Short.m4a</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:0d95256000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:0d95256000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:1439424000000f254016000000d423360000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:1439424000000f254016000000d423360000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:3556224000000f254016000000d402192000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:3556224000000f254016000000d402192000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:1862784000000f254016000000d1598184000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:1862784000000f254016000000d1598184000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:3460968000000f254016000000d95256000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:3460968000000f254016000000d95256000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:560952000000f254016000000d878472000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:560952000000f254016000000d878472000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <stRef:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stRef:instanceID>
+                        <stRef:documentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</stRef:documentID>
+                        <stRef:fromPart>time:95256000000f254016000000d465696000000f254016000000</stRef:fromPart>
+                        <stRef:toPart>time:95256000000f254016000000d465696000000f254016000000</stRef:toPart>
+                        <stRef:filePath>SleepyHallow_Bridge_CutNoAudio.mp4</stRef:filePath>
+                        <stRef:maskMarkers>None</stRef:maskMarkers>
+                    </rdf:li>
+                </rdf:Bag>
+            </xmpMM:Ingredients>
+            <xmpMM:Pantry>
+                <rdf:Bag>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmp:CreateDate>2020-09-29T17:27:49Z</xmp:CreateDate>
+                        <xmp:ModifyDate>2020-09-29T10:29:11-07:00</xmp:ModifyDate>
+                        <xmp:MetadataDate>2020-09-29T10:29:11-07:00</xmp:MetadataDate>
+                        <tiff:Orientation>1</tiff:Orientation>
+                        <xmpMM:InstanceID>65591d7b-1ff0-5636-d9cd-36f400000086</xmpMM:InstanceID>
+                        <xmpMM:DocumentID>f9f2c266-bc2b-43db-cb3e-8cb300000059</xmpMM:DocumentID>
+                        <xmpMM:OriginalDocumentID>xmp.did:c8dfdfd5-43e2-4657-b718-bf3d5ec2e994</xmpMM:OriginalDocumentID>
+                        <xmpMM:History>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>65591d7b-1ff0-5636-d9cd-36f400000086</stEvt:instanceID>
+                                    <stEvt:when>2020-09-29T10:29:11-07:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2020.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpMM:History>
+                        <xmpDM:duration rdf:parseType="Resource">
+                            <xmpDM:value>7441534</xmpDM:value>
+                            <xmpDM:scale>1/90000</xmpDM:scale>
+                        </xmpDM:duration>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmp:CreateDate>2021-05-21T21:11:08Z</xmp:CreateDate>
+                        <xmp:ModifyDate>2022-01-20T15:22:38-08:00</xmp:ModifyDate>
+                        <xmp:MetadataDate>2022-01-20T15:22:38-08:00</xmp:MetadataDate>
+                        <xmpMM:InstanceID>8e269212-6dc0-a9d8-afcd-fd1900000080</xmpMM:InstanceID>
+                        <xmpMM:DocumentID>74e5b2ff-89d8-5fde-e0b7-57b900000053</xmpMM:DocumentID>
+                        <xmpMM:OriginalDocumentID>xmp.did:3081606f-962e-404d-b179-af4728c851e3</xmpMM:OriginalDocumentID>
+                        <xmpDM:duration rdf:parseType="Resource">
+                            <xmpDM:value>689504</xmpDM:value>
+                            <xmpDM:scale>1/48000</xmpDM:scale>
+                        </xmpDM:duration>
+                        <xmpMM:History>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>8e269212-6dc0-a9d8-afcd-fd1900000080</stEvt:instanceID>
+                                    <stEvt:when>2022-01-20T15:22:38-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpMM:History>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmp:CreateDate>2022-01-20T00:01:39Z</xmp:CreateDate>
+                        <xmp:ModifyDate>2022-01-20T11:43:12-08:00</xmp:ModifyDate>
+                        <xmp:MetadataDate>2022-01-20T13:05:12-08:00</xmp:MetadataDate>
+                        <xmp:CreatorTool>Adobe Premiere Pro 2022.0 (Macintosh)</xmp:CreatorTool>
+                        <xmpDM:videoFrameRate>24.000000</xmpDM:videoFrameRate>
+                        <xmpDM:videoFieldOrder>Progressive</xmpDM:videoFieldOrder>
+                        <xmpDM:videoPixelAspectRatio>1/1</xmpDM:videoPixelAspectRatio>
+                        <xmpDM:audioSampleRate>48000</xmpDM:audioSampleRate>
+                        <xmpDM:audioSampleType>16Int</xmpDM:audioSampleType>
+                        <xmpDM:audioChannelType>Stereo</xmpDM:audioChannelType>
+                        <xmpDM:startTimeScale>24</xmpDM:startTimeScale>
+                        <xmpDM:startTimeSampleSize>1</xmpDM:startTimeSampleSize>
+                        <tiff:Orientation>1</tiff:Orientation>
+                        <xmpMM:InstanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</xmpMM:InstanceID>
+                        <xmpMM:DocumentID>19bc5474-7fd1-393f-6c69-a0bf0000006f</xmpMM:DocumentID>
+                        <xmpMM:OriginalDocumentID>xmp.did:0f4d1ebd-87f1-4d66-9bcc-a48f8d850513</xmpMM:OriginalDocumentID>
+                        <dc:format>H.264</dc:format>
+                        <xmpDM:projectRef rdf:parseType="Resource">
+                            <xmpDM:type>movie</xmpDM:type>
+                        </xmpDM:projectRef>
+                        <xmpDM:videoFrameSize rdf:parseType="Resource">
+                            <stDim:w>1920</stDim:w>
+                            <stDim:h>1080</stDim:h>
+                            <stDim:unit>pixel</stDim:unit>
+                        </xmpDM:videoFrameSize>
+                        <xmpDM:startTimecode rdf:parseType="Resource">
+                            <xmpDM:timeFormat>24Timecode</xmpDM:timeFormat>
+                            <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+                        </xmpDM:startTimecode>
+                        <xmpDM:altTimecode rdf:parseType="Resource">
+                            <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+                            <xmpDM:timeFormat>24Timecode</xmpDM:timeFormat>
+                        </xmpDM:altTimecode>
+                        <xmpDM:duration rdf:parseType="Resource">
+                            <xmpDM:value>1405440</xmpDM:value>
+                            <xmpDM:scale>1/90000</xmpDM:scale>
+                        </xmpDM:duration>
+                        <xmpMM:History>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>478d9790-8ee5-c1e4-1a91-130b0000009c</stEvt:instanceID>
+                                    <stEvt:when>2022-01-19T16:01:41-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:962242cb-db94-4b54-b706-800323a74bf6</stEvt:instanceID>
+                                    <stEvt:when>2022-01-19T16:01:25-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata/xmpDM/Tracks</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>created</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:7767f462-2ed8-433d-b8b2-c82527d3db96</stEvt:instanceID>
+                                    <stEvt:when>2022-01-19T16:01:38-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:81ae2929-f5ff-43de-b204-f8d59c12df87</stEvt:instanceID>
+                                    <stEvt:when>2022-01-19T16:01:41-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:5a21512e-3414-432c-b9ef-50121915bd93</stEvt:instanceID>
+                                    <stEvt:when>2022-01-19T16:01:41-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>modified</stEvt:action>
+                                    <stEvt:parameters>unknown modifications</stEvt:parameters>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>bd8073f9-fdc1-50cc-9ff9-47c30000009c</stEvt:instanceID>
+                                    <stEvt:when>2022-01-20T11:43:12-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:f76decdb-dc21-4025-9512-568cdfd6e5d3</stEvt:instanceID>
+                                    <stEvt:when>2022-01-20T12:59:04-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata/xmpDM/Tracks</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:126f0c88-edf8-482f-9db3-3cedf1a3d254</stEvt:instanceID>
+                                    <stEvt:when>2022-01-20T13:05:12-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata/xmpDM/Tracks</stEvt:changed>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpMM:History>
+                        <xmpMM:Ingredients>
+                            <rdf:Bag>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stRef:instanceID>xmp.iid:e4f7e542-d380-4474-a61a-85e83c347406</stRef:instanceID>
+                                    <stRef:documentID>58c9cc5c-f376-1fc8-0775-ebaf00000061</stRef:documentID>
+                                    <stRef:fromPart>time:2275560000000f254016000000d3958416000000f254016000000</stRef:fromPart>
+                                    <stRef:toPart>time:0d3958416000000f254016000000</stRef:toPart>
+                                    <stRef:filePath>SleepyHallow_Bridge_Cut.mp4</stRef:filePath>
+                                    <stRef:maskMarkers>None</stRef:maskMarkers>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stRef:instanceID>xmp.iid:e4f7e542-d380-4474-a61a-85e83c347406</stRef:instanceID>
+                                    <stRef:documentID>58c9cc5c-f376-1fc8-0775-ebaf00000061</stRef:documentID>
+                                    <stRef:fromPart>time:2275560000000f254016000000d3958416000000f254016000000</stRef:fromPart>
+                                    <stRef:toPart>time:0d3958416000000f254016000000</stRef:toPart>
+                                    <stRef:filePath>SleepyHallow_Bridge_Cut.mp4</stRef:filePath>
+                                    <stRef:maskMarkers>None</stRef:maskMarkers>
+                                </rdf:li>
+                            </rdf:Bag>
+                        </xmpMM:Ingredients>
+                        <xmpMM:DerivedFrom rdf:parseType="Resource">
+                            <stRef:instanceID>xmp.iid:962242cb-db94-4b54-b706-800323a74bf6</stRef:instanceID>
+                            <stRef:documentID>xmp.did:962242cb-db94-4b54-b706-800323a74bf6</stRef:documentID>
+                            <stRef:originalDocumentID>xmp.did:962242cb-db94-4b54-b706-800323a74bf6</stRef:originalDocumentID>
+                        </xmpMM:DerivedFrom>
+                        <xml:versionIDs>
+                            <rdf:Seq>
+                                <rdf:li>7be3d8dd-5ec9-4749-b0f6-6c8d9a36ef0d</rdf:li>
+                                <rdf:li>4c99331d-68c6-49f1-9f23-44c8691fefc7</rdf:li>
+                                <rdf:li>e2ea20fc-4b48-4ad1-ab5b-ed2fc2f4bf4e</rdf:li>
+                                <rdf:li>b1ef2060-92e5-4704-bfc0-ae7698b5b95b</rdf:li>
+                            </rdf:Seq>
+                        </xml:versionIDs>
+                        <creatorAtom:windowsAtom rdf:parseType="Resource">
+                            <creatorAtom:extension>.prproj</creatorAtom:extension>
+                            <creatorAtom:invocationFlags>/L</creatorAtom:invocationFlags>
+                        </creatorAtom:windowsAtom>
+                        <creatorAtom:macAtom rdf:parseType="Resource">
+                            <creatorAtom:applicationCode>1347449455</creatorAtom:applicationCode>
+                            <creatorAtom:invocationAppleEvent>1129468018</creatorAtom:invocationAppleEvent>
+                            <creatorAtom:posixProjectPath>/Users/jaredotto/Desktop/SleepyDemo_1.prproj</creatorAtom:posixProjectPath>
+                        </creatorAtom:macAtom>
+                    </rdf:li>
+                    <rdf:li rdf:parseType="Resource">
+                        <xmp:CreateDate>2020-09-29T17:35:12Z</xmp:CreateDate>
+                        <xmp:ModifyDate>2020-09-29T17:35:17Z</xmp:ModifyDate>
+                        <xmp:MetadataDate>2022-01-13T13:56:29-08:00</xmp:MetadataDate>
+                        <xmp:CreatorTool>Adobe Premiere Pro 2020.0 (Macintosh)</xmp:CreatorTool>
+                        <xmpDM:videoFrameRate>24.000000</xmpDM:videoFrameRate>
+                        <xmpDM:videoFieldOrder>Progressive</xmpDM:videoFieldOrder>
+                        <xmpDM:videoPixelAspectRatio>1/1</xmpDM:videoPixelAspectRatio>
+                        <xmpDM:audioSampleRate>48000</xmpDM:audioSampleRate>
+                        <xmpDM:audioSampleType>16Int</xmpDM:audioSampleType>
+                        <xmpDM:audioChannelType>Stereo</xmpDM:audioChannelType>
+                        <xmpDM:startTimeScale>24</xmpDM:startTimeScale>
+                        <xmpDM:startTimeSampleSize>1</xmpDM:startTimeSampleSize>
+                        <tiff:Orientation>1</tiff:Orientation>
+                        <xmpMM:InstanceID>xmp.iid:e4f7e542-d380-4474-a61a-85e83c347406</xmpMM:InstanceID>
+                        <xmpMM:DocumentID>58c9cc5c-f376-1fc8-0775-ebaf00000061</xmpMM:DocumentID>
+                        <xmpMM:OriginalDocumentID>xmp.did:fea69500-79b9-43df-a8bc-ea1df3c7c529</xmpMM:OriginalDocumentID>
+                        <dc:format>H.264</dc:format>
+                        <xmpDM:projectRef rdf:parseType="Resource">
+                            <xmpDM:type>movie</xmpDM:type>
+                        </xmpDM:projectRef>
+                        <xmpDM:videoFrameSize rdf:parseType="Resource">
+                            <stDim:w>1920</stDim:w>
+                            <stDim:h>1080</stDim:h>
+                            <stDim:unit>pixel</stDim:unit>
+                        </xmpDM:videoFrameSize>
+                        <xmpDM:startTimecode rdf:parseType="Resource">
+                            <xmpDM:timeFormat>24Timecode</xmpDM:timeFormat>
+                            <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+                        </xmpDM:startTimecode>
+                        <xmpDM:altTimecode rdf:parseType="Resource">
+                            <xmpDM:timeValue>00:00:00:00</xmpDM:timeValue>
+                            <xmpDM:timeFormat>24Timecode</xmpDM:timeFormat>
+                        </xmpDM:altTimecode>
+                        <xmpDM:duration rdf:parseType="Resource">
+                            <xmpDM:value>2807040</xmpDM:value>
+                            <xmpDM:scale>1/90000</xmpDM:scale>
+                        </xmpDM:duration>
+                        <xmpMM:History>
+                            <rdf:Seq>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>23e1fa01-612b-7a8e-8d43-9aec0000008e</stEvt:instanceID>
+                                    <stEvt:when>2020-09-29T10:35:17-07:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2020.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>created</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:c2a3d70f-06e0-41f6-8351-5b458ecf325f</stEvt:instanceID>
+                                    <stEvt:when>2020-09-29T10:35:12-07:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2020.0 (Macintosh)</stEvt:softwareAgent>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:4426837b-8b99-4249-961f-8bf67ddd836d</stEvt:instanceID>
+                                    <stEvt:when>2020-09-29T10:35:17-07:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2020.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:aa568124-1db5-4214-bdba-3a4f1eab5fa5</stEvt:instanceID>
+                                    <stEvt:when>2020-09-29T10:35:17-07:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2020.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:5b8937fb-1ff7-4a08-b337-700db3d38a06</stEvt:instanceID>
+                                    <stEvt:when>2021-12-21T11:17:28-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata/xmpDM/Tracks</stEvt:changed>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stEvt:action>saved</stEvt:action>
+                                    <stEvt:instanceID>xmp.iid:e4f7e542-d380-4474-a61a-85e83c347406</stEvt:instanceID>
+                                    <stEvt:when>2022-01-13T13:56:29-08:00</stEvt:when>
+                                    <stEvt:softwareAgent>Adobe Premiere Pro 2022.0 (Macintosh)</stEvt:softwareAgent>
+                                    <stEvt:changed>/metadata/xmpDM/Tracks</stEvt:changed>
+                                </rdf:li>
+                            </rdf:Seq>
+                        </xmpMM:History>
+                        <xmpMM:Ingredients>
+                            <rdf:Bag>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stRef:instanceID>65591d7b-1ff0-5636-d9cd-36f400000086</stRef:instanceID>
+                                    <stRef:documentID>f9f2c266-bc2b-43db-cb3e-8cb300000059</stRef:documentID>
+                                    <stRef:fromPart>time:3589761376722f254016000000d7910182148706f254016000000</stRef:fromPart>
+                                    <stRef:toPart>time:0d7910182148706f254016000000</stRef:toPart>
+                                    <stRef:filePath>SleepyHallow_Bridge.mp4</stRef:filePath>
+                                    <stRef:maskMarkers>None</stRef:maskMarkers>
+                                </rdf:li>
+                                <rdf:li rdf:parseType="Resource">
+                                    <stRef:instanceID>65591d7b-1ff0-5636-d9cd-36f400000086</stRef:instanceID>
+                                    <stRef:documentID>f9f2c266-bc2b-43db-cb3e-8cb300000059</stRef:documentID>
+                                    <stRef:fromPart>time:3589761376722f254016000000d7910182148706f254016000000</stRef:fromPart>
+                                    <stRef:toPart>time:0d7910182148706f254016000000</stRef:toPart>
+                                    <stRef:filePath>SleepyHallow_Bridge.mp4</stRef:filePath>
+                                    <stRef:maskMarkers>None</stRef:maskMarkers>
+                                </rdf:li>
+                            </rdf:Bag>
+                        </xmpMM:Ingredients>
+                        <xmpMM:DerivedFrom rdf:parseType="Resource">
+                            <stRef:instanceID>xmp.iid:c2a3d70f-06e0-41f6-8351-5b458ecf325f</stRef:instanceID>
+                            <stRef:documentID>xmp.did:c2a3d70f-06e0-41f6-8351-5b458ecf325f</stRef:documentID>
+                            <stRef:originalDocumentID>xmp.did:c2a3d70f-06e0-41f6-8351-5b458ecf325f</stRef:originalDocumentID>
+                        </xmpMM:DerivedFrom>
+                        <creatorAtom:windowsAtom rdf:parseType="Resource">
+                            <creatorAtom:extension>.prproj</creatorAtom:extension>
+                            <creatorAtom:invocationFlags>/L</creatorAtom:invocationFlags>
+                        </creatorAtom:windowsAtom>
+                        <creatorAtom:macAtom rdf:parseType="Resource">
+                            <creatorAtom:applicationCode>1347449455</creatorAtom:applicationCode>
+                            <creatorAtom:invocationAppleEvent>1129468018</creatorAtom:invocationAppleEvent>
+                            <creatorAtom:posixProjectPath>/Users/jaredotto/Documents/Adobe/Premiere Pro/9.0/SleepyHollow_YouDesign.prproj</creatorAtom:posixProjectPath>
+                        </creatorAtom:macAtom>
+                    </rdf:li>
+                </rdf:Bag>
+            </xmpMM:Pantry>
+            <xmpMM:DerivedFrom rdf:parseType="Resource">
+                <stRef:instanceID>xmp.iid:fe888ee6-6237-4109-ad8e-dd1f52d1df4a</stRef:instanceID>
+                <stRef:documentID>xmp.did:fe888ee6-6237-4109-ad8e-dd1f52d1df4a</stRef:documentID>
+                <stRef:originalDocumentID>xmp.did:fe888ee6-6237-4109-ad8e-dd1f52d1df4a</stRef:originalDocumentID>
+            </xmpMM:DerivedFrom>
+            <dc:format>H.264</dc:format>
+            <xml:versionIDs>
+                <rdf:Seq>
+                    <rdf:li>0933456a-3f41-40cc-a98a-29f25e753e75</rdf:li>
+                    <rdf:li>861dcc8f-75a4-4908-b583-397a5cafa632</rdf:li>
+                    <rdf:li>6b9de1d0-ae4a-4182-a871-520a1e06d2ad</rdf:li>
+                    <rdf:li>c265cb03-73d2-4eda-a1f1-e246ea72c7e6</rdf:li>
+                    <rdf:li>83b31072-0c15-4aba-9c1c-3a1410d25c93</rdf:li>
+                    <rdf:li>8bef9509-5a7c-480c-b4e2-dd697514fac4</rdf:li>
+                    <rdf:li>6a08995e-90dc-4811-bb21-7a504a96b1b7</rdf:li>
+                    <rdf:li>ecb52faa-d56e-4bc6-948f-7f5b61d332b3</rdf:li>
+                    <rdf:li>e752fa53-ea29-431d-9025-fbb3e249608d</rdf:li>
+                    <rdf:li>d5ac1f52-599e-405e-a778-f4556e554d8a</rdf:li>
+                    <rdf:li>8ae3bbbe-3d68-4c96-a11e-57f0e5e62bcc</rdf:li>
+                </rdf:Seq>
+            </xml:versionIDs>
+            <creatorAtom:windowsAtom rdf:parseType="Resource">
+                <creatorAtom:extension>.prproj</creatorAtom:extension>
+                <creatorAtom:invocationFlags>/L</creatorAtom:invocationFlags>
+            </creatorAtom:windowsAtom>
+            <creatorAtom:macAtom rdf:parseType="Resource">
+                <creatorAtom:applicationCode>1347449455</creatorAtom:applicationCode>
+                <creatorAtom:invocationAppleEvent>1129468018</creatorAtom:invocationAppleEvent>
+                <creatorAtom:posixProjectPath>/Users/gabe/Documents/Adobe/Premiere Pro/22.0/Sleepy Hollow.prproj</creatorAtom:posixProjectPath>
+            </creatorAtom:macAtom>
+        </rdf:Description>
+    </rdf:RDF>
+</x:xmpmeta>

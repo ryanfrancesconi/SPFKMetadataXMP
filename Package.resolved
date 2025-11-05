@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "aexml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tadija/AEXML",
+      "state" : {
+        "revision" : "db806756c989760b35108146381535aec231092b",
+        "version" : "4.7.0"
+      }
+    },
+    {
+      "identity" : "checksum",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rnine/Checksum",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9dde3d1d898a5074608a1420791ef0a80c2399f2"
+      }
+    },
+    {
+      "identity" : "otatomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/OTAtomics",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c357e4512b1deed3b10fec6071db925f07d85b87"
+      }
+    },
+    {
+      "identity" : "otcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/OTCore",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e3e0b07317fd43017b3da90910b11b0e4641da72"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b36ba8b4294f1d978be2ad99dcba1eedeae5c067"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "swift-xattr",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jozefizso/swift-xattr",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1cd1e6bc9aecdcce31c66e2d2d5561ecd7ead83a"
+      }
+    },
+    {
+      "identity" : "timecodekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orchetect/TimecodeKit",
+      "state" : {
+        "revision" : "957fdaeda020396d150ee1afc7c5172791cb0ad5",
+        "version" : "2.3.4"
+      }
+    }
+  ],
+  "version" : 2
+}

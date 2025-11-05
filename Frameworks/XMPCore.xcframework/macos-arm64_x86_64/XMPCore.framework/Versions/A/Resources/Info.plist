@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>20G224</string>
+	<key>CFBundleExecutable</key>
+	<string>XMPCore</string>
+	<key>CFBundleGetInfoString</key>
+	<string>XMP Core 6.0.0 (debug), Copyright (c) 2019</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.xmp.XMPCore</string>
+	<key>CFBundleName</key>
+	<string>XMPCore</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>XMP Core 6.0.0 (debug)</string>
+	<key>CFBundleSignature</key>
+	<string>XMP </string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>Configuration</key>
+	<string>Debug</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>13A1030d</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>12.0</string>
+	<key>DTSDKBuild</key>
+	<string>21A344</string>
+	<key>DTSDKName</key>
+	<string>macosx12.0</string>
+	<key>DTXcode</key>
+	<string>1310</string>
+	<key>DTXcodeBuild</key>
+	<string>13A1030d</string>
+	<key>FileVersion</key>
+	<string>6.0.0 (debug)</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.12</string>
+	<key>ProductName</key>
+	<string>XMP Core</string>
+	<key>ProductVersion</key>
+	<string>6.0.0</string>
+</dict>
+</plist>
