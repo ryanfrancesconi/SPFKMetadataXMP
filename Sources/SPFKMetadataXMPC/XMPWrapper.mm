@@ -19,7 +19,7 @@
 }
 
 + (bool)initialize {
-    XMPLifecycle::initialize();
+    return XMPLifecycle::initialize();
 }
 
 + (void)terminate {

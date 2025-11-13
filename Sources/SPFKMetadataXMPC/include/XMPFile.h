@@ -1,7 +1,7 @@
 // Copyright Ryan Francesconi. All Rights Reserved. Revision History at https://github.com/ryanfrancesconi/SPFKMetadataXMPC
 
-#ifndef SPFKXMPFile_H
-#define SPFKXMPFile_H
+#ifndef XMPFile_H
+#define XMPFile_H
 
 #import <Foundation/Foundation.h>
 
@@ -11,8 +11,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, strong, nullable) NSString *xmpString;
 
+/// get XMP metadata as a XML string
+/// - Parameter path: path to the file to parse
 - (nullable id)initWithPath:(nonnull NSString *)path;
 
+/// write XMP xml string to file
 + (void)write:(nonnull NSString *)xmlString
        toPath:(nonnull NSString *)toPath;
 
@@ -20,4 +23,4 @@ NS_ASSUME_NONNULL_BEGIN
 
 NS_ASSUME_NONNULL_END
 
-#endif /* SPFKXMPFile_H */
+#endif /* XMPFile_H */

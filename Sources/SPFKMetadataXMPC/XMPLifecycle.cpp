@@ -13,20 +13,16 @@ bool XMPLifecycle::initialize() {
     }
 
     if (!SXMPMeta::Initialize()) {
-        std::cout << "Could not initialize toolkit!";
+        std::cout << "Could not initialize toolkit!" << std::endl;
 
         return false;
     }
 
     XMP_OptionBits options = 0;
 
-#if UNIX_ENV
-    options |= kXMPFiles_ServerMode;
-#endif
-
     // Must initialize SXMPFiles before we use it
     if (!SXMPFiles::Initialize(options) ) {
-        std::cout << "Could not initialize SXMPFiles.";
+        std::cout << "Could not initialize SXMPFiles." << std::endl;
         return false;
     }
 

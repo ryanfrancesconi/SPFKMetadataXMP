@@ -3,6 +3,8 @@ import Foundation
 import SPFKTesting
 import Testing
 
+// Global utilities for tests
+
 let resources = BundleResources(bundleURL: Bundle.module.bundleURL)
 
 func xml(named name: String) throws -> String {

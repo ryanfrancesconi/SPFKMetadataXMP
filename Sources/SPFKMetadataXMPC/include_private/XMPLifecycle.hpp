@@ -5,19 +5,20 @@
 
 #include <iostream>
 
-// One of MAC_ENV, WIN_ENV, UNIX_ENV or IOS_ENV must be defined by the client
+/// One of MAC_ENV, WIN_ENV, UNIX_ENV or IOS_ENV must be defined by the client
+/// Also definied in XMPEnvironment.h
 #define MAC_ENV              1
 
-// Must be defined to instantiate template classes
+/// Must be defined to instantiate template classes
 #define TXMP_STRING_TYPE     std::string
 
-// Must be defined to give access to XMPFiles
+/// Must be defined to give access to XMPFiles
 #define XMP_INCLUDE_XMPFILES 1
 
-// Ensure XMP templates are instantiated
+/// Ensure XMP templates are instantiated
 #include "XMP.incl_cpp"
 
-// Provide access to the API
+/// Provide access to the API
 #include "XMP.hpp"
 
 class XMPLifecycle {
