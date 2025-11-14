@@ -73,7 +73,7 @@ class FileTests: BinTestCase {
 
         let urls = TestBundleResources.shared.formats + TestBundleResources.shared.audioCases
 
-        let group = try await withThrowingTaskGroup(of: XMPMetadata?.self, returning: [XMPMetadata].self) { taskGroup in
+        let result = try await withThrowingTaskGroup(of: XMPMetadata?.self, returning: [XMPMetadata].self) { taskGroup in
             for url in urls {
                 taskGroup.addTask {
                     try XMPMetadata(url: url)
@@ -91,6 +91,6 @@ class FileTests: BinTestCase {
             return mutableResults
         }
 
-        #expect(group.count == urls.count)
+        #expect(result.count == urls.count)
     }
 }
