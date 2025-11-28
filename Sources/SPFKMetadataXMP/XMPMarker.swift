@@ -1,7 +1,7 @@
 // Copyright Ryan Francesconi. All Rights Reserved. Revision History at https://github.com/ryanfrancesconi/SPFKMetadataXMP
 
 import Foundation
-import TimecodeKit
+import SwiftTimecode
 
 /// https://developer.adobe.com/xmp/docs/XMPNamespaces/XMPDataTypes/Marker/
 public struct XMPMarker: Equatable, CustomStringConvertible, Sendable {

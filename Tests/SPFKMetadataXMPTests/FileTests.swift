@@ -4,7 +4,7 @@ import SPFKMetadataXMP
 import SPFKTesting
 import SPFKUtils
 import Testing
-import TimecodeKit
+import SwiftTimecode
 
 /// XMP will translate existing metadata into XMP and return it as xml
 /// see id3.xml, wave.xml

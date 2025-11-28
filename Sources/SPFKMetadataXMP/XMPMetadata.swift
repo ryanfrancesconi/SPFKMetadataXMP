@@ -6,7 +6,7 @@ import Foundation
 import SwiftExtensions
 import SPFKTime
 import SPFKUtils
-import TimecodeKit
+import SwiftTimecode
 
 /// A subset of XMP metadata focused on markers and timecode.
 /// This is currently a parser only.

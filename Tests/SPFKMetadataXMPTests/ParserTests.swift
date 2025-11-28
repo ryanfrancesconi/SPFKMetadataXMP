@@ -3,7 +3,7 @@ import Foundation
 import SPFKTesting
 import SPFKUtils
 import Testing
-import TimecodeKit
+import SwiftTimecode
 
 class ParserTests {
     @Test func parseSample1() throws {

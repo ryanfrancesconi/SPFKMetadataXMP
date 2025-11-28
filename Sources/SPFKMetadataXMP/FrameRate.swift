@@ -1,6 +1,6 @@
 // Copyright Ryan Francesconi. All Rights Reserved. Revision History at https://github.com/ryanfrancesconi/SPFKMetadataXMP
 
-import TimecodeKit
+import SwiftTimecode
 
 // swiftformat:disable consecutiveSpaces
 
