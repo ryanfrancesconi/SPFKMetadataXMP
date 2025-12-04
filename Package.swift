@@ -62,6 +62,7 @@ let package = Package(
             name: "XMPCore",
             path: "Frameworks/XMPCore.xcframework"
         ),
+        
         .binaryTarget(
             name: "XMPFiles",
             path: "Frameworks/XMPFiles.xcframework"
