@@ -6,16 +6,11 @@ import PackageDescription
 let package = Package(
     name: "spfk-metadata-xmp",
     defaultLocalization: "en",
-    platforms: [
-        .macOS(.v12)
-    ],
+    platforms: [.macOS(.v12),],
     products: [
         .library(
             name: "SPFKMetadataXMP",
-            targets: [
-                "SPFKMetadataXMP",
-                "SPFKMetadataXMPC",
-            ]
+            targets: ["SPFKMetadataXMP", "SPFKMetadataXMPC",]
         )
     ],
     dependencies: [
@@ -28,13 +23,12 @@ let package = Package(
         .target(
             name: "SPFKMetadataXMP",
             dependencies: [
-                "SPFKMetadataXMPC",
+                .targetItem(name: "SPFKMetadataXMPC", condition: nil),
                 .product(name: "SPFKBase", package: "spfk-base"),
                 .product(name: "SPFKTime", package: "spfk-time"),
                 .product(name: "SPFKUtils", package: "spfk-utils"),
             ]
         ),
-
         .target(
             name: "SPFKMetadataXMPC",
             dependencies: [
@@ -57,22 +51,19 @@ let package = Package(
                 .headerSearchPath("Adobe/XMPCore/Interfaces"),
             ]
         ),
-
         .binaryTarget(
             name: "XMPCore",
             path: "Frameworks/XMPCore.xcframework"
         ),
-
         .binaryTarget(
             name: "XMPFiles",
             path: "Frameworks/XMPFiles.xcframework"
         ),
-
         .testTarget(
             name: "SPFKMetadataXMPTests",
             dependencies: [
-                "SPFKMetadataXMP",
-                "SPFKMetadataXMPC",
+                .targetItem(name: "SPFKMetadataXMP", condition: nil),
+                .targetItem(name: "SPFKMetadataXMPC", condition: nil),
                 .product(name: "SPFKTesting", package: "spfk-testing"),
             ],
             resources: [.process("Resources")],
