@@ -115,7 +115,7 @@ class FileTests: BinTestCase {
         let newXML = try xml(named: "id3.xml")
 
         // capture a local actor reference (avoids capturing self in the sending closure)
-        let xmp = self.xmp
+        let xmp = xmp
 
         let result = try await withThrowingTaskGroup(of: XMPMetadata?.self, returning: [XMPMetadata].self) {
             taskGroup in

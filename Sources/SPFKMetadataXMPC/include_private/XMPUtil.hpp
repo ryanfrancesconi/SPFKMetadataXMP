@@ -20,8 +20,8 @@ private:
     static SXMPMeta createXMPFromRDF(string string);
 
 public:
-    static string getXMP(string filename);
-    
+    static string getXMP(string filePath);
+
     /// Write the xml string into the file
     ///
     /// - Parameters:

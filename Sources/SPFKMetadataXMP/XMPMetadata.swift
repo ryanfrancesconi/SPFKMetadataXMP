@@ -9,6 +9,7 @@ import SPFKUtils
 import SwiftTimecode
 
 /// A subset of XMP metadata focused on markers and timecode.
+/// 
 /// This is currently a parser only.
 public struct XMPMetadata: Equatable, Sendable {
     public static func == (lhs: XMPMetadata, rhs: XMPMetadata) -> Bool {

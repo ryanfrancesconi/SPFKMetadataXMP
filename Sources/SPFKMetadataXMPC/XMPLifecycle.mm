@@ -9,8 +9,8 @@
 #include <string>
 #include <vector>
 
-#import "XMPLifecycleCXX.hpp"
 #import "XMPLifecycle.h"
+#import "XMPLifecycleCXX.hpp"
 
 @implementation XMPLifecycle
 

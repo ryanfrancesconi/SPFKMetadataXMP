@@ -25,7 +25,7 @@ SXMPMeta XMPUtil::createXMPFromRDF(string string) {
     return meta;
 }
 
-string XMPUtil::getXMP(string filename) {
+string XMPUtil::getXMP(string filePath) {
     XMPLifecycleCXX::initialize();
 
     string buffer;
@@ -38,20 +38,20 @@ string XMPUtil::getXMP(string filename) {
         string status = "";
 
         // First we try and open the file
-        bool ok = myFile.OpenFile(filename, kXMP_UnknownFile, opts);
+        bool ok = myFile.OpenFile(filePath, kXMP_UnknownFile, opts);
 
         if (!ok) {
-            status += "No smart handler available for " + filename + "\n";
+            status += "No smart handler available for " + filePath + "\n";
             status += "Trying packet scanning.\n";
 
             // Now try using packet scanning
             opts = kXMPFiles_OpenForUpdate | kXMPFiles_OpenUsePacketScanning;
-            ok = myFile.OpenFile(filename, kXMP_UnknownFile, opts);
+            ok = myFile.OpenFile(filePath, kXMP_UnknownFile, opts);
         }
 
         // If the file is open then read the metadata
         if (!ok) {
-            cout << "Error: Failed to open " << filename << endl;
+            cout << "Error: Failed to open " << filePath << endl;
             return nullptr;
         }
 
