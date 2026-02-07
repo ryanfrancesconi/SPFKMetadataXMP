@@ -24,6 +24,25 @@ class FileTests: BinTestCase {
         #expect(xmp.title == "Stonehenge")
     }
 
+    @Test func writeWave_XMP() async throws {
+        deleteBinOnExit = false
+        let url = try copyToBin(url: TestBundleResources.shared.cowbell_wav)
+
+        let orig = try await XMPMetadata(url: url).document.xml
+        Log.debug(orig)
+
+        let string = try sample(named: "sample1.xml")
+
+        try await xmp.write(string: string, to: url)
+
+        try await wait(sec: 1)
+
+        let xmp2 = try await XMPMetadata(url: url)
+        Log.debug(xmp2.document.xml)
+
+        #expect(try AEXMLDocument(fromString: string).xml == xmp2.document.xml)
+    }
+
     @Test func writeID3_XMP() async throws {
         let url = try copyToBin(url: TestBundleResources.shared.mp3_no_metadata)
 
@@ -32,18 +51,18 @@ class FileTests: BinTestCase {
 
         // if there is no metadata, xmp will return a minimal doc that it creates.
 
-        // <x:xmpmeta x:xmptk="XMP Core 6.0.0" xmlns:x="adobe:ns:meta/">
-        //    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-        //        <rdf:Description rdf:about="" />
-        //    </rdf:RDF>
-        // </x:xmpmeta>
+//         <x:xmpmeta x:xmptk="XMP Core 6.0.0" xmlns:x="adobe:ns:meta/">
+//            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+//                <rdf:Description rdf:about="" />
+//            </rdf:RDF>
+//         </x:xmpmeta>
 
         let description = try #require(xmpMetadata.document.root[.rdf]?[.description])
 
         #expect(description.children.isEmpty)
 
         // read in an xml definition from this file
-        let newXML = try xml(named: "id3.xml")
+        let newXML = try sample(named: "id3.xml")
 
         // write to the new file
         try await xmp.write(string: newXML, to: url)
@@ -112,7 +131,7 @@ class FileTests: BinTestCase {
         let urls = try copyToBin(urls: formats)
 
         // read in an xml definition from this file
-        let newXML = try xml(named: "id3.xml")
+        let newXML = try sample(named: "id3.xml")
 
         // capture a local actor reference (avoids capturing self in the sending closure)
         let xmp = xmp
