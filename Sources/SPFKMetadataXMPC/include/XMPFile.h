@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// get XMP metadata as a XML string
 /// - Parameter path: path to the file to parse
-- (nullable id)initWithPath:(nonnull NSString *)path;
+- (nullable instancetype)initWithPath:(nonnull NSString *)path;
 
 /// write XMP xml string to file
 + (bool)write:(nonnull NSString *)xmlString

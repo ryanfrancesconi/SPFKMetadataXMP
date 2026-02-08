@@ -9,7 +9,7 @@
 
 @implementation XMPFile : NSObject
 
-- (nullable id)initWithPath:(nonnull NSString *)path {
+- (nullable instancetype)initWithPath:(nonnull NSString *)path {
     self = [super init];
 
     std::string xml = XMPUtil::getXMP(path.UTF8String);
