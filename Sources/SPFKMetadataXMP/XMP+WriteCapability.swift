@@ -39,8 +39,11 @@ public extension XMP {
     ///
     /// Read from the symbol table of the vendored `XMPFiles` binary, which carries TIFF, JPEG,
     /// PNG, GIF, PSD, MPEG4, MPEG2, RIFF, WAVE, AIFF, MP3, ASF, SVG, FLV, SWF, PostScript,
-    /// InDesign and the folder-based camera handlers -- and nothing for Matroska.
-    static let unsupportedPathExtensions: Set<String> = ["mkv", "mka", "webm"]
+    /// InDesign and the folder-based camera handlers -- and nothing for Matroska or MXF.
+    ///
+    /// `mxf` is here despite the P2, AVCHD and XDCAM handlers next to it: those are *folder*
+    /// handlers, which read a camera card's directory layout rather than a standalone `.mxf`.
+    static let unsupportedPathExtensions: Set<String> = ["mkv", "mka", "webm", "mxf"]
 
     /// What is known about writing XMP into this file's format, from the path extension.
     ///
